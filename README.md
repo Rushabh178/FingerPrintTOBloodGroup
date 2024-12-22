@@ -26,7 +26,7 @@ This project leverages deep learning to predict an individual's blood group base
 
 ## Screenshot
 
-![App Screenshot](image.png)
+![App Screenshot](./image.png)
 
 ---
 
