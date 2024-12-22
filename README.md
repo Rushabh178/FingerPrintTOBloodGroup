@@ -91,9 +91,10 @@ In `ResNet9`, residual connections are added after:
 
 These residual connections can be mathematically expressed as:
 
-\[
+$$
 \text{Output} = \text{F(x)} + \text{x}
-\]
+$$
+
 
 Where \( F(x) \) represents the transformation applied to the input \( x \).
 
@@ -115,7 +116,7 @@ The ResNet9 architecture consists of:
 
 ---
 
-### #**4. Model Summary**
+#### **4. Model Summary**
 - **Input**: RGB image of size \( 128 \times 128 \).
 - **Output**: A probability distribution across 8 classes (blood groups).
 - **Number of Parameters**: Optimized to balance performance and computational efficiency.
