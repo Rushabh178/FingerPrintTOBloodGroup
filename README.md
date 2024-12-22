@@ -117,7 +117,7 @@ The ResNet9 architecture consists of:
 ---
 
 #### **4. Model Summary**
-- **Input**: RGB image of size \( 128 \times 128 \).
+- **Input**: RGB image of size $$\( 128 \times 128 \)$$.
 - **Output**: A probability distribution across 8 classes (blood groups).
 - **Number of Parameters**: Optimized to balance performance and computational efficiency.
 - **Activation Function**: ReLU for intermediate layers, softmax (implicit in cross-entropy loss) for output probabilities.
