@@ -60,7 +60,7 @@ This project leverages deep learning to predict an individual's blood group base
 ## How It Works
 
 ### Model Architecture
-Here’s a detailed explanation of the `ResNet9` architecture you created that you can include in your README file:
+Here’s a detailed explanation of the `ResNet9` architecture:
 
 ---
 
@@ -159,8 +159,6 @@ Output (8 classes)
 In this project, `ResNet9` is used to classify fingerprint images into 8 different blood groups. The pre-trained weights are loaded, and the model is used in evaluation mode to predict the blood group from an uploaded image.
 
 --- 
-
-Feel free to copy this explanation to your README file. Let me know if you'd like further customization!
 
 ### Steps
 1. **Image Upload**:
