@@ -102,7 +102,7 @@ def preprocess_image(image):
     return transform(image).unsqueeze(0)  # Add batch dimension
 
 # Streamlit frontend for deployment
-st.set_page_config(page_title="Fingerprint to Blood Group", layout="wide")
+st.set_page_config(page_title= "Fingerprint to Blood Group",page_icon="🩸", layout="wide")
 st.title("Fingerprint to Blood Group Prediction")
 
 # Sidebar Section
