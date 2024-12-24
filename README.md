@@ -39,8 +39,8 @@ This project leverages deep learning to predict an individual's blood group base
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/fingerprint-to-blood-group.git
-   cd fingerprint-to-blood-group
+   git clone https://github.com/Rushabh178/FingurePrintTOBloodGroup.git
+   cd FingurePrintTOBloodGroup
    ```
 
 2. Install dependencies:
